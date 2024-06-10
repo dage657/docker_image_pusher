@@ -1,1 +1,1 @@
-xiaoyaliu/alist:hostmode
+--platform arm64 coderl/ xiaoyaliu/alist:hostmode
