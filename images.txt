@@ -1,1 +1,1 @@
-xiaoyaliu/alist:401250d82abd
+xiaoyaliu/alist:hostmode
