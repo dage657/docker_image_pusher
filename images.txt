@@ -1,3 +1,4 @@
 --platform linux/arm64 xiaoyaliu/alist:latest
 xiaoyaliu/alist:latest
 hslr/sun-panel
+nginx
