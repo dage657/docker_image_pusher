@@ -2,3 +2,4 @@
 xiaoyaliu/alist:latest
 hslr/sun-panel
 nginx
+openjdk:17
