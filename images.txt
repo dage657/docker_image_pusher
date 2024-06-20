@@ -4,3 +4,4 @@ hslr/sun-panel
 nginx
 openjdk:17
 redis:latest
+ffdfgdfg/nps:latest
