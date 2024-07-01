@@ -5,3 +5,4 @@ nginx
 openjdk:17
 redis:latest
 ffdfgdfg/nps:latest
+glanceapp/glance:latest
