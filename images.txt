@@ -6,3 +6,4 @@ openjdk:17
 redis:latest
 ffdfgdfg/nps:latest
 glanceapp/glance:latest
+mysql:8.2
