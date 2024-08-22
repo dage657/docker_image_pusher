@@ -8,3 +8,4 @@ ffdfgdfg/nps:latest
 glanceapp/glance:latest
 mysql:8.2
 akaiot/oracle_11g
+xiaofeng68/db_oracle11g
