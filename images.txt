@@ -6,6 +6,6 @@ openjdk:17
 redis:latest
 ffdfgdfg/nps:latest
 glanceapp/glance:latest
-mysql:8.2
+mysql
 akaiot/oracle_11g
 xiaofeng68/db_oracle11g
