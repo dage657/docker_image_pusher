@@ -1,12 +1,8 @@
---platform linux/arm64 xiaoyaliu/alist:latest
 xiaoyaliu/alist:latest
 hslr/sun-panel
 nginx
 openjdk:17
 redis:latest
-ffdfgdfg/nps:latest
 glanceapp/glance:latest
 mysql
-akaiot/oracle_11g
-xiaofeng68/db_oracle11g
 ailg/g-box
