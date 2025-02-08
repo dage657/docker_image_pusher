@@ -5,4 +5,4 @@ openjdk:17
 redis:latest
 glanceapp/glance:latest
 mysql
-ailg/g-box
+ailg/g-box:hostmode
