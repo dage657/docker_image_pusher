@@ -6,4 +6,4 @@ redis:latest
 glanceapp/glance:latest
 mysql
 ailg/g-box:hostmode
-gitea
+gitea/gitea
