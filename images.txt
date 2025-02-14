@@ -7,3 +7,4 @@ glanceapp/glance:latest
 mysql
 ailg/g-box:hostmode
 gitea/gitea
+nomhiro1204/oracle21c:latest
